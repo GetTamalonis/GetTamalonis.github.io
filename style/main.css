@@ -342,10 +342,10 @@ hr {
     background: #fff url('../img/7.JPG');
     background-size: cover; }
   .tile.tile-32 .tile-inner {
-    background: #fff url('../img/6.JPG');
+    background: #fff url('../img/6.jpg');
     background-size: cover; }
   .tile.tile-64 .tile-inner {
-    background: #fff url('../img/5.jpg');
+    background: #fff url('../img/5.JPG');
     background-size: cover; }
   .tile.tile-128 .tile-inner {
     background: #fff url('../img/1.JPG');
